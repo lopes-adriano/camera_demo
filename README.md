@@ -40,3 +40,4 @@ Como dito anteriormente, nosso objetivo era criar um protótipo de um app simple
 
 ### Preview
 
+<img src="preview/preview-1.png" width="216" height="384">  <img src="preview/preview-2.png" width="216" height="384">
