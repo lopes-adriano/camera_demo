@@ -6,8 +6,8 @@ Grupo: Auxílio na tomada de decisão no processo de compra de frutas e vegetais
 ## Introdução
 
 Para alcançar o nosso objetivo, precisamos obter o conhecimento necessário para o desenvolvimento de um aplicativo mobile. Como primeiro passo na nossa jornada, decidimos criar um app simples que acesse a câmera e a galeria de um celular. Com isso em mente, escolhemos dois frameworks para o nosso estudo sobre desenvolvimento mobile:
-+Flutter (Dart)
-+Kivy (Python)
++ Flutter (Dart)
++ Kivy (Python)
 
 Este repositório contém o código do protótipo do nosso aplicativo feito em Flutter, assim como um guia para auxiliar aqueles que estão dando os seus primeiros passos com o framework.
 
