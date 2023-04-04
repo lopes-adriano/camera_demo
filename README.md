@@ -20,7 +20,7 @@ Uma das principais razões para considerarmos o Flutter como um candidato para o
 
 ## Como instalar o Flutter e rodar seu primeiro projeto.
 
-Como o Android Studio é um programa que demanda bastante recursos, criamos um tutorial para aqueles que gostariam de instalar somente o Flutter e demais recursos necessários para o seu funcionamento no Windows. O tutorial passo a passo pode ser encontrado no seguinte [link.](tutorial-flutter.md)
+Como o Android Studio é um programa que demanda bastante recursos, criamos um tutorial para aqueles que gostariam de instalar somente o Flutter e demais recursos necessários para o seu funcionamento no Windows. O tutorial passo a passo pode ser encontrado [neste link.](tutorial-flutter.md)
 
 Caso prefira instalar o Flutter juntamente com o Android Studio, que é um processo mais fácil, recomendados seguir o passo a passo encontrado na [documentação do Flutter.](https://docs.flutter.dev/get-started/install/)
 
